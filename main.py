@@ -1,3 +1,8 @@
+"""
+Project: BMI Calculator
+@author: M.Raahim Rizwan
+"""
+
 # Importing tkinter
 from tkinter import *
 from tkinter import ttk
